@@ -1,10 +1,16 @@
 # Code 201 Reading Notes
 
-this is my notes from readings we do in 201 course in my advance coding scholarship 
+> this is my notes from readings we do in **_201 course_** in my advance coding scholarship 
+
+ - [x] 101 Course
+ - [x] 102 Course
+ - [ ] 201 Course
+ - [ ] 301 Course
+ - [ ] 401 Course
 
 Read#   |   Link
 --------|---------
-Read01  |    [Read 01](https://alihayajneh95.github.io/reading-notes/Read01)
+Read01  |    [Read 01](https://alihayajneh95.github.io/reading-notes/read01)
 Read02  |    [Read 02]()
 Read03  |    [Read 03]()
 Read04  |    [Read 04]()
