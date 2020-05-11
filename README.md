@@ -11,7 +11,7 @@
 Read#   |   Link
 --------|---------
 Read01  |    [Read 01](https://alihayajneh95.github.io/reading-notes/class01)
-Read02  |    [Read 02]()
+Read02  |    [Read 02](https://alihayajneh95.github.io/reading-notes/class02)
 Read03  |    [Read 03]()
 Read04  |    [Read 04]()
 Read05  |    [Read 05]()
