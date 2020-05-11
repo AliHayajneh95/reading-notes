@@ -71,3 +71,24 @@ Here is a list of things a learnt in this reading:
     tell them.
 - [x] You can differentiate between pieces of information using size, color, and style.
 - [x] You can use grouping and similarity to help simplify the information you present.
+
+also this more stuff i read form the other book about JS
+
+- [x] A script is a series of instructions that the computer can follow in order to achieve a goal.
+- [x] Each time the script runs, it might only use a subset of all the instructions.
+- [x] Computers approach tasks in a different way than humans, so your instructions must let the computer
+    solve the task prggrammatically.
+- [x] To approach writing a script, break down your goal into a series of tasks and then work out each 
+    step needed to complete that task (a flowchart can help).
+- [x] Computers create models of the world using data.
+- [x] The models use objects to represent physical things.
+- [x] Programmers can write code to say when this event occurs run this
+     code
+- [x] to make web pages interactive, you write code that uses the browser's
+    model of the web page.
+- [x] It is best to keep JavaScript code in its own JavaScript
+    file.
+- [x] The HTML <script> element is used in HTML pages to tell the browser to load the JavaScript file 
+    (rather like the <link> element can be used to load a CSS file).
+- [x] If you view the source code of the page in the browser, the JavaScript will not have changed the 
+    HTML, because the script works with the model of the web page that the browser has created.
