@@ -55,4 +55,4 @@ problems start getting more broadwide and complex
       that are siblings of each other.
 - [x] In older browsers, implementation of the DOM is inconsistent (and is 
       a popular reason for using jQuery).
-- [x] Browsers offer tools for viewing the DOM tree .
+- [x] Browsers offer tools for viewing the DOM tree.
