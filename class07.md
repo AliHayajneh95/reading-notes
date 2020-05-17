@@ -1,4 +1,4 @@
-# class06
+# class07
 
 > this is my notes from readings we do in **_201 course_** in my advance coding scholarship 
 
