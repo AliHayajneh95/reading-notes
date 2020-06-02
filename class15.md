@@ -16,4 +16,4 @@ Here is a list of things a learnt in this reading:
       increasingly the world’s dominant commercial culture
 
 - [x]And at the core of Silicon Valley are certain self-mythologies and dictums: Everything is different 
-      now, data reigns supreme, today’s winners deserve to triumph because they are cleareyed enough to discard yesterday’s conventional wisdoms and search out the disruptive and the new.
+      now, data reigns supreme, today’s winners deserve to triumph because they are cleareyed enough to discard yesterday’s conventional wisdoms and search out the disruptive and the new
